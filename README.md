@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CelineCherry
+- 👀 I’m interested in programming and art.
+- 🌱 I’m currently learning java and how to draw figures.
