@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @CelineCherry
-- 👀 I’m interested in programming and art.
-- 🌱 I’m currently learning java and learning how to draw figures.
+- 👀 I’m interested in game development and design.
+- 🎮 This summer I created a game in a week solo and came in 3rd place in a game jam with it: TASERFISH https://celinecherry.itch.io/taserfish
